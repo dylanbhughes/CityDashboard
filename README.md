@@ -1,11 +1,6 @@
 # CityDashboard #
-What's going on [SF]
+What's going on [in your city]
 
-## Getting Started ##
+CityDashboard is the best way to configure a custom interface to show you location-based information in the browser.
 
-To start the application locally simply run
-```bash
-npm install
-npm start
-```
-From the home directory and open up http://localhost:3000/.
+Check us out at http://citydash.herokuapp.com.
